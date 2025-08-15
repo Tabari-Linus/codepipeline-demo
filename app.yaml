@@ -14,7 +14,7 @@ Parameters:
     Type: String
     AllowedPattern: ^.*[^0-9]$
     ConstraintDescription: Must end with non-numeric character.
-    Default: index.lambda_handler
+    #Default: index.lambda_handler
     
 
 Resources:
